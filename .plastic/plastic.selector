@@ -1,0 +1,4 @@
+repository "PIT_Hand_1@Choc_Sama@cloud"
+  path "/"
+    br "/main"
+    co "/main"
